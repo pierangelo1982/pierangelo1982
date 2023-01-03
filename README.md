@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pierangelo1982
 - 👀 I’m interested in programming, devops, web and mobile applications
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on opensource project
+- 💞️ 
 - 📫 How to reach me pierangelo1982@gmail.com
 
 <!---
